@@ -1,2 +1,3 @@
-chapters-source/
-*.exe
+/build/
+/BIN/
+.claude/settings.local.json
